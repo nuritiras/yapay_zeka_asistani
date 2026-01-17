@@ -41,7 +41,3 @@ Projeyi bilgisayarınıza kurmak için terminali açın ve aşağıdaki adımlar
 sudo apt update
 sudo apt install python3-venv python3-pip git -y
 
-📄 Lisans
-Bu proje MIT Lisansı ile lisanslanmıştır. Açık kaynaklıdır ve eğitim amaçlı özgürce kullanılabilir.
-
-<p align="center"> <sub>Pardus ve Açık Kaynak Gönüllüleri Tarafından ❤️ ile Hazırlanmıştır.</sub> </p>
